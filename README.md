@@ -1,6 +1,8 @@
 # Introduction to Linux Commands (CentOS)
 <br>
-Linux is a robust operating system widely used in servers, development environments, and enterprise systems. Understanding key Linux commands is crucial for managing CentOS, a popular Linux distribution.
+Linux is a robust operating system widely used in servers, development environments, and enterprise systems. Understanding key Linux
+<br> 
+commands is crucial for managing CentOS, a popular Linux distribution.
 <br>
 Here’s a quick guide to essential CentOS Linux commands:
 <br>
